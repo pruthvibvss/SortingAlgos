@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# SortingAlgos
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
 - Selection Sort
